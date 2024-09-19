@@ -32,14 +32,14 @@ nav ul li {
 }
 
 nav a {
-    color: white;
+    color: rgb(255, 0, 0);
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #e2e6ea;
+    color: #ff0000;
 }
 
 h1 {
@@ -62,7 +62,7 @@ h1 {
 .description {
     margin-top: 30px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #000000;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s;
