@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #f8f9fa;
-    color: #343a40;
+    background-color: #000000;
+    color: #ff0000;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,8 +11,8 @@ body {
 }
 
 header {
-    background-color: #007BFF;
-    color: white;
+    background-color: #000000;
+    color: rgb(255, 0, 0);
     padding: 20px;
     width: 100%;
     position: fixed;
